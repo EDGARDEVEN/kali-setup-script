@@ -5,43 +5,43 @@ It installs a curated set of essential tools without bloating your Kali environm
 
 ---
 
-## 🚀 Features
+## Features
 The script installs and configures:
 
-### 🛠 Essentials
+### Essentials
 - git, curl, wget, unzip, tmux, htop, jq, zsh
 - Python3 (pip, venv, virtualenv, pipx)
 - Go (for installing bug bounty tools)
 
-### 🌐 Networking & Recon
+###  Networking & Recon
 - nmap, masscan, amass, dnsrecon, whois
 
-### 💥 Exploitation
+### Exploitation
 - metasploit-framework, sqlmap, hydra, nikto
 
-### 🌍 Web Pentesting
+### Web Pentesting
 - gobuster, wfuzz, dirb, burpsuite (community)
 
-### 🔍 OSINT
+### OSINT
 - theHarvester, recon-ng, Sublist3r (via pipx)
 
-### 🔑 Password Attacks
+### Password Attacks
 - hashcat, john, crunch, cewl
 
-### 📡 Wireless
+### Wireless
 - aircrack-ng, bettercap, reaver
 
-### 🕵️ Forensics & Reverse Engineering
+### Forensics & Reverse Engineering
 - autopsy, volatility, radare2, ghidra
 
-### 🎯 Bug Bounty Extras
+### Bug Bounty Extras
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) (via pipx)
 - [httprobe](https://github.com/tomnomnom/httprobe) (via Go)
 - [gau](https://github.com/lc/gau) (via Go)
 
 ---
 
-## 📦 Installation
+## Installation
 
 Clone this repo and run the script:
 
@@ -68,7 +68,7 @@ chmod +x setup-tools.sh
 
 ---
 
-## 🧑‍💻 Author
+## Author
 - **EDGARDEVEN**  
 Just a Tech !!!
 
